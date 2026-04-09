@@ -42,8 +42,7 @@ Detailed CLI configurations for the primary network infrastructure:
 
 ## 👤 Author
 **Kiboi David**
-* **Role:** Security Professional | Aspiring Network Engineer
-* **Location:** Doha, Qatar
+* **Role:** Security and IT Professional
 * **Focus:** Integrated Security Systems, Network Infrastructure, and Cyber Operations
 
 ## 🎓 Professional Certification Path
