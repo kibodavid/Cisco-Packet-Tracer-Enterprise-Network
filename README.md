@@ -25,12 +25,18 @@ The following screenshot validates the complete routing stack. A host in **VLAN 
 ![Web Server Success](WebServerReached.png)
 
 ## 📂 How to Use
-1. **Download:** Navigate to the `/Project-Files` folder and download the `.pkt` file.
+1. **Download:** Download the [Hail.pkt](Hail.pkt) file from this repository.
 2. **Software:** Open the file using **Cisco Packet Tracer (v8.2 or higher)**.
 3. **Management Access:** To verify device configurations via SSH, use the following credentials:
     * **Username:** `admin`
     * **Password:** `admin123`
 4. **Testing:** Use the "Simulation Mode" or the "Desktop > Web Browser" tool on any departmental PC to test connectivity across the network.
+
+## 📁 Technical Documentation
+Detailed CLI configurations for the primary network infrastructure:
+* [Core Switch Configuration](Core-SW-Config.txt)
+* [Edge Gateway Configuration](Edge-GW-Config.txt)
+* [Branch Router Configuration](Branch-Router.txt)
 
 ---
 
